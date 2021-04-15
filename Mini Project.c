@@ -85,7 +85,7 @@ int main(){
     float Ef=(O/P)*100;
     printf("Efficiency of the Motor(in percentage):%f\n",Ef);
     if(Ef<50){
-        printf("Change the Input Parameters");
+        printf("Change the Input Parameters\n");
         goto lable3;
     }
     float W=(2*PI*N)/60;
