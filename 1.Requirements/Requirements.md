@@ -14,7 +14,8 @@
 
 . This motor motivated others to produce DC motors of the same powerful standard, with the ability to drive a boat with a capacity of 14 people across a river.
 
-![Dc motor](https://upload.wikimedia.org/wikipedia/commons/c/cc/Universalmotor_3.JPG)
+![Dc motor](https://user-images.githubusercontent.com/82274701/115024266-7a322600-9edd-11eb-8aae-947380524d6a.jpg)
+
 ## Types of Dc motors
 
 There are mainly 4 types of Dc motors namely:
